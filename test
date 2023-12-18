@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>Välkommen</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+      padding-top: 100px; /* Justera vid behov */
+      font-size: 36px; /* Justera vid behov */
+    }
+  </style>
+</head>
+<body>
+  <h1>Välkommen</h1>
+</body>
+</html>
